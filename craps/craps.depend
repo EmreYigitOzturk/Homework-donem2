@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1677693407 source:c:\users\emre\desktop\test\craps\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
