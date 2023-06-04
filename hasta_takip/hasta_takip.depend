@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1685870919 source:c:\users\emre\desktop\test\hasta_takip\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
